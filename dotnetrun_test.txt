@@ -1,0 +1,100 @@
+
+PS C:\Users\ikara\source\repos\OlimpijskeIgre> dotnet run --project "C:\Users\ikara\source\repos\OlimpijskeIgre\OlimpijskeIgre"
+
+1. Kolo Grupe A:
+Kanada - Australija (85:139)
+Grcka - Spanija (101:107)
+
+1. Kolo Grupe B:
+Nemacka - Francuska (71:87)
+Brazil - Japan (80:86)
+
+1. Kolo Grupe C:
+Sjedinjene Americke Drzave - Srbija (113:67)
+Juzni Sudan - Portoriko (76:102)
+
+2. Kolo Grupe A:
+Kanada - Grcka (80:97)
+Australija - Spanija (143:97)
+
+2. Kolo Grupe B:
+Nemacka - Brazil (77:91)
+Francuska - Japan (98:118)
+
+2. Kolo Grupe C:
+Sjedinjene Americke Drzave - Juzni Sudan (128:110)
+Srbija - Portoriko (90:99)
+
+3. Kolo Grupe A:
+Kanada - Spanija (85:101)
+Australija - Grcka (115:112)
+
+3. Kolo Grupe B:
+Nemacka - Japan (75:87)
+Francuska - Brazil (93:110)
+
+3. Kolo Grupe C:
+Sjedinjene Americke Drzave - Portoriko (180:108)
+Srbija - Juzni Sudan (95:94)
+
+-------------------------------------------------------
+
+Grupa A(pobede/porazi/bodovi/post. kosevi/prim. kosevi/kos razlika)
+Australija       3/0/6/397/294/103
+Spanija  2/1/5/305/329/-24
+Grcka    1/2/4/310/302/8
+Kanada   0/3/3/250/337/-87
+
+Grupa B(pobede/porazi/bodovi/post. kosevi/prim. kosevi/kos razlika)
+Japan    3/0/6/291/253/38
+Brazil   2/1/5/281/256/25
+Francuska        1/2/4/278/299/-21
+Nemacka  0/3/3/223/265/-42
+
+Grupa C(pobede/porazi/bodovi/post. kosevi/prim. kosevi/kos razlika)
+Sjedinjene Americke Drzave       3/0/6/421/285/136
+Portoriko        2/1/5/309/346/-37
+Srbija   1/2/4/252/306/-54
+Juzni Sudan      0/3/3/280/325/-45
+
+Sjedinjene Americke Drzave       3/0/6/421/285/136
+
+Australija       3/0/6/397/294/103
+
+Japan    3/0/6/291/253/38
+
+Brazil   2/1/5/281/256/25
+
+Spanija  2/1/5/305/329/-24
+
+Portoriko        2/1/5/309/346/-37
+
+Grcka    1/2/4/310/302/8
+
+Francuska        1/2/4/278/299/-21
+
+Cetvrtfinale D-G:
+Australija - Francuska (123:58)
+Sjedinjene Americke Drzave - Grcka (75:62)
+
+Cetvrtfinale E-F:
+Spanija - Brazil (93:133)
+Japan - Portoriko (99:88)
+
+Polufinale D-G:
+Australija - Sjedinjene Americke Drzave (75:144)
+
+Polufinale E-F:
+Brazil - Japan (120:55)
+
+Utakmica za trece mesto:
+Australija - Japan (110:55)
+
+Finale:
+Sjedinjene Americke Drzave - Brazil (80:54)
+
+----------------------------------
+Medalje:
+Zlato: Sjedinjene Americke Drzave
+Srebro: Brazil
+Bronza: Australija
